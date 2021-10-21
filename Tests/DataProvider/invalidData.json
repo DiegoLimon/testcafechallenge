@@ -1,0 +1,20 @@
+[
+    {
+        "username": "locked_out_user",
+        "password": "secret_sauce",
+        "expectedMessage": "Epic sadface: Sorry, this user has been locked out"
+
+    },
+    
+    {
+        "username": "sloth",
+        "password": "secret_sauce",
+        "expectedMessage": "Username and password do not match"
+    },
+
+    {
+        "username": "performance_glitch_user",
+        "password": "Chabelo",
+        "expectedMessage": "Username and password do not match"
+    }
+]

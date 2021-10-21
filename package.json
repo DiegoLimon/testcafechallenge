@@ -1,0 +1,14 @@
+{
+  "name": "mytestcafechallenge",
+  "version": "1.0.0",
+  "description": "wizeline challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "author": "Diego Limon",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.16.1"
+  }
+}
